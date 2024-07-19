@@ -11,4 +11,4 @@ Feel free to explore my projects and connect with me. Let's collaborate and crea
 
 [LinkedIn](https://www.linkedin.com/in/freddysong) | [Email](mailto:fredsong99@gmail.com)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukalafaye&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrFrooty&layout=compact&theme=tokyonight)
