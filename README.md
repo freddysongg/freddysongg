@@ -10,3 +10,5 @@ Welcome to my GitHub profile!
 Feel free to explore my projects and connect with me. Let's collaborate and create something amazing together!
 
 [LinkedIn](https://www.linkedin.com/in/freddysong) | [Email](mailto:fredsong99@gmail.com)
+
+(https://github-readme-stats.vercel.app/api/top-langs/?username=lukalafaye&layout=compact&theme=tokyonight)
