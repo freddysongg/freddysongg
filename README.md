@@ -16,7 +16,7 @@ Feel free to explore my projects and connect with me. Let's collaborate and crea
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/freddysong) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:fredsong99@gmail.com)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrFrooty&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=freddysongg&layout=compact&theme=tokyonight)
 
 ## Tech Stack
 
