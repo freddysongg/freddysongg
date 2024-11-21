@@ -13,7 +13,7 @@ AI-powered automation and exploring innovative AI applications in e-commerce!
 
 Feel free to explore my projects and connect with me. Let's collaborate and create something amazing together!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/freddysong) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:fredsong99@gmail.com) <a href="https://freddysonggg/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/freddysong) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:fredsong99@gmail.com) <a href="https://freddysonggg.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=freddysongg&layout=compact&theme=tokyonight)
