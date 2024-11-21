@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
 - Mid-DJ 🔊, cafe hopper ☕︎, and custom keyboard enthusiast ⌨️
 
 ## Currently Working On..
-AI-powered automation and exploring innovative AI applications in e-commerce!
+AI-powered automation, exploring innovative AI applications in e-commerce and RNN parameter fine-tuning!
 
 Feel free to explore my projects and connect with me. Let's collaborate and create something amazing together!
 
