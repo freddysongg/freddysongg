@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 
 - Full-stack Developer & Machine Learning Engineer 🛠️
 - Passionate about unraveling the complexities of Artificial Intelligence 🤖🧠
-- Mid-DJ 🔊, cafe hopper ☕︎, and custom keyboard enthusiast ⌨️
+- DJ 🔊, cafe hopper ☕︎, and custom keyboard enthusiast ⌨️
 
 ## Currently Working On..
 AI-powered automation, exploring innovative AI applications in e-commerce and RNN parameter fine-tuning!
