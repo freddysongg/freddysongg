@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
 - DJ 🔊, cafe hopper ☕︎, and custom keyboard enthusiast ⌨️
 
 ## Currently Working On..
-AI-powered automation, exploring innovative AI applications in e-commerce and RNN parameter fine-tuning!
+switch.ai: gpt, but for switches!
 
 Feel free to explore my projects and connect with me. Let's collaborate and create something amazing together!
 
