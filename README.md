@@ -9,7 +9,8 @@ Welcome to my GitHub profile!
 - DJ 🔊, cafe hopper ☕︎, and custom keyboard enthusiast ⌨️
 
 ## Currently Working On..
-switch.ai: gpt, but for switches!
+
+swtch.ai, Deep Learning for pollutant prediction
 
 Feel free to explore my projects and connect with me. Let's collaborate and create something amazing together!
 
