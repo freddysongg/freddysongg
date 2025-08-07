@@ -4,9 +4,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-- Full-stack Developer & Machine Learning Engineer 🛠️
-- Passionate about unraveling the complexities of Artificial Intelligence 🤖🧠
-- DJ 🔊, cafe hopper ☕︎, and custom keyboard enthusiast ⌨️
+Building what's next in AI and fullstack. I engineer high-performance systems that deliver, whether it's spinning up a RAG system to make search smarter or integrating an LLM to power a conversation, No fluff, just solid code and real results.
 
 ## Currently Working On..
 
