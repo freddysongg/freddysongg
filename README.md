@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hello%2C+I'm+Freddy+Song!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-Welcome to my GitHub profile!
-
 ## About Me
 
 Building what's next in AI and fullstack. I engineer high-performance systems that deliver, whether it's spinning up a RAG system to make search smarter or integrating an LLM to power a conversation, No fluff, just solid code and real results.
