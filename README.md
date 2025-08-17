@@ -8,7 +8,7 @@ Building what's next in AI and fullstack. I engineer high-performance systems th
 
 ## Currently Working On..
 
-swtch.ai, Deep Learning for pollutant prediction
+Deep Learning & GenAI @ USC FORTIS Lab under Professor Yue Zhao
 
 Feel free to explore my projects and connect with me. Let's collaborate and create something amazing together!
 
