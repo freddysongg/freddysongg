@@ -2,11 +2,11 @@
 
 ## About Me
 
-Building what's next in AI and fullstack. Feel free to explore and connect with me!
+Building what's next in AI! 
 
 ## Currently Working On..
 
-Deep Learning & GenAI @ USC FORTIS Lab under Professor Yue Zhao
+Exploring model efficiency and rigorous evaluation, with work spanning transformers and computational biology.
 
 Feel free to explore my projects and connect with me. Let's collaborate and create something amazing together!
 
