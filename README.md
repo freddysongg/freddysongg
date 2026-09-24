@@ -2,7 +2,7 @@
 
 ## About Me
 
-Building what's next in AI and fullstack. I engineer high-performance systems that deliver, whether it's spinning up a RAG system to make search smarter or integrating an LLM to power a conversation, No fluff, just solid code and real results.
+Building what's next in AI and fullstack. Feel free to explore and connect with me!
 
 ## Currently Working On..
 
